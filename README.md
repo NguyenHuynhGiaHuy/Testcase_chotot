@@ -1,3 +1,6 @@
+https://docs.google.com/spreadsheets/d/1T-9HJL0D0AHftP_CoEEgpJBRQIuRm7uTR6kEndVzK7w/edit?usp=sharing
+
+
 Sơ đồ mindmap login
 
 ![image](https://github.com/NguyenHuynhGiaHuy/Testcase_chotot/assets/130195149/fdfcb89d-d38f-45e6-b1e2-bb5571de5881)
